@@ -2,6 +2,10 @@
 
 This meeting will explore the transformative impact of artificial intelligence on scientific discovery across various fields. With a focus on the use of large language models (LLMs), reinforcement learning, and robotics/automation, the discussion will cover how these cutting-edge AI technologies are accelerating research and innovation.
 
+## Logistics 
+- ### Where ###: Argonne National Laboratory, Bldg. 240 (Room 1501)
+- ### When ###: Oct 28-30, 2024
+
 ## Topics Covered
 
 - Application of LLMs for data analysis, hypothesis generation, and knowledge synthesis in fields such as genomics and chemistry.

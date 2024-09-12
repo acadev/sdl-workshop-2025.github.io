@@ -18,23 +18,17 @@ Participants will gain insight into the latest AI methods that are shaping the f
 
 This meeting is designed to engage a diverse and broad audience, including:
 
-### Researchers and Scientists
-Those working in fields such as biology, chemistry, physics, computer science, and engineering who are interested in leveraging AI technologies to accelerate their work.
+- Researchers and Scientists: Those working in fields such as biology, chemistry, physics, computer science, and engineering who are interested in leveraging AI technologies to accelerate their work.
 
-### Graduate and Undergraduate Students
-Students from a variety of disciplines, including AI, machine learning, data science, robotics, bioinformatics, and natural sciences, who wish to deepen their understanding of how AI is revolutionizing scientific discovery.
+- Graduate and Undergraduate Students: Students from a variety of disciplines, including AI, machine learning, data science, robotics, bioinformatics, and natural sciences, who wish to deepen their understanding of how AI is revolutionizing scientific discovery.
 
-### Industry Professionals and Innovators
-AI practitioners, data scientists, and automation engineers looking to stay at the forefront of AI’s applications in research and development.
+- Industry Professionals and Innovators: AI practitioners, data scientists, and automation engineers looking to stay at the forefront of AI’s applications in research and development.
 
-### Policy Makers and Educators
-Stakeholders who influence science and technology policy, as well as educators seeking to incorporate AI and automation into their curricula.
+- Policy Makers and Educators: Stakeholders who influence science and technology policy, as well as educators seeking to incorporate AI and automation into their curricula.
 
-### Under-represented Communities in STEM
-Individuals from historically under-represented groups in science, technology, engineering, and mathematics (STEM), as this meeting will emphasize inclusive approaches to AI and its role in democratizing access to cutting-edge research tools.
+- Under-represented Communities in STEM: Individuals from historically under-represented groups in science, technology, engineering, and mathematics (STEM), as this meeting will emphasize inclusive approaches to AI and its role in democratizing access to cutting-edge research tools.
 
-### Tech Enthusiasts and AI Advocates
-Anyone interested in the societal and ethical implications of AI in scientific research and innovation.
+- Tech Enthusiasts and AI Advocates: Anyone interested in the societal and ethical implications of AI in scientific research and innovation.
 
 This inclusive and interdisciplinary audience will foster diverse perspectives, encouraging collaborative dialogue and innovative thinking around AI-powered scientific discovery.
 

@@ -1,5 +1,5 @@
 # Scientific Discovery in the AI Age
----
+
 [About](https://acadev.https://acadev.github.io/sdl-workshop-2024.github.io/index.md) | [Program](https://acadev.github.io/sdl-workshop-2024.github.io/program.md) | [Organizers](https://acadev.github.io/sdl-workshop-2024.github.io/organizers.md)
 
 ## Topics Covered

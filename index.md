@@ -1,4 +1,6 @@
 # Scientific Discovery in the AI Age
+---
+[About](https://acadev.https://acadev.github.io/sdl-workshop-2024.github.io/index.md) | [Program](https://acadev.github.io/sdl-workshop-2024.github.io/program.md) | [Organizers](https://acadev.github.io/sdl-workshop-2024.github.io/organizers.md)
 
 ## Topics Covered
 This meeting will explore the transformative impact of artificial intelligence on scientific discovery across various fields. With a focus on the use of large language models (LLMs), reinforcement learning, and robotics/automation, the discussion will cover how these cutting-edge AI technologies are accelerating research and innovation.

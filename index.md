@@ -12,6 +12,8 @@ Participants will gain insight into the latest AI methods that are shaping the f
 ## Logistics 
 - **Where**: Argonne National Laboratory, Bldg. 240 (Room 1501)
 - **When**: Oct 28-30, 2024
+- **Register here**:  [Event Registration](https://cvent.me/LYMMR2)
+We have a nominal registration fee to cover local food and hosting charges. 
 
 ## Target Audience
 
@@ -25,3 +27,7 @@ This meeting is designed to engage a diverse and broad audience, including:
 
 This inclusive and interdisciplinary audience will foster diverse perspectives, encouraging collaborative dialogue and innovative thinking around AI-powered scientific discovery.
 
+## Organizers
+-- **Ian Foster**: 
+-- **Thomas Brettin**: 
+-- **Arvind Ramanathan**: 

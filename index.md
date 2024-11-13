@@ -14,7 +14,7 @@ Participants will gain insight into the latest AI methods that are shaping the f
 
 ## Logistics 
 - **Where**: Argonne National Laboratory, Bldg. 240 (Room 1501)
-- **When**: To be held later (Jan/ Feb, 2025)
+- **When**: Apr 2025
 - **Register here**:  [Event Registration](https://cvent.me/LYMMR2)
 We have a nominal registration fee to cover local food and hosting charges. 
 

@@ -2,9 +2,6 @@
 
 [About](https://acadev.https://acadev.github.io/sdl-workshop-2024.github.io/index.md) | [Program](https://acadev.github.io/sdl-workshop-2024.github.io/program.md) | [Organizers](https://acadev.github.io/sdl-workshop-2024.github.io/organizers.md)
 
-## Note
-We apologize for any inconvenience - due to ongoing DOE meetings, we have had to postpone the meeting to a later date. While it was not our intention to postpone the meeting, given the interest in the topic (from various sources), we decided that this was the best option forward. We will announce the dates for the meeting in the near future. 
-
 ## Topics Covered
 This meeting will explore the transformative impact of artificial intelligence on scientific discovery across various fields. With a focus on the use of large language models (LLMs), reinforcement learning, and robotics/automation, the discussion will cover how these cutting-edge AI technologies are accelerating research and innovation.
 - Application of LLMs for data analysis, hypothesis generation, and knowledge synthesis in fields such as genomics and chemistry.
@@ -14,7 +11,7 @@ Participants will gain insight into the latest AI methods that are shaping the f
 
 ## Logistics 
 - **Where**: Argonne National Laboratory, Bldg. 240 (Room 1501)
-- **When**: Apr 2025
+- **When**: Apr 15-17 2025
 - **Register here**:  [Event Registration](https://cvent.me/LYMMR2)
 We have a nominal registration fee to cover local food and hosting charges. 
 

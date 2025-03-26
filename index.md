@@ -29,7 +29,7 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 
 ## Tentative Program
 
-# Day 1: Apr 15, 2025 (Tue) Session 1: Towards Scientific Superintelligence 
+# Day 1: Apr 15, 2025 (Tue) Morning Session: Towards Scientific Superintelligence 
 | Time                | Presenter, Organization   | Title                                | Location    |
 | ---                 | ---                       | ---                                  | ---         |
 | 9.00 AM - 9.10 AM   |  Thomas Brettin, ANL      |  Safety, Program Logistics           | Room 1501   |
@@ -37,7 +37,21 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 | 9.50 AM - 10.30 AM  |  Ben Kompa, Lila          |                                      |  Room 1501  | 
 | 10.30 AM  - 11.00 AM|  Coffee Break             |                                      | Annex Lobby |
 | 11.00 AM - 11.30 AM| Sumit Jha, FIU             | The MEDAL Program                    | Room 1501   |
-|---                 | ---                        |  ----                                | ---         |
+| 11.30 AM - 12.00 PM| Andrew Heywood, Emerald Cloud Labs |                              | Room 1501   |
+| 12.00 PM - 12.30 PM| Lav Varshney, UIUC         |                                      | Room 1501   |
+| 12.30 PM - 1.15 PM | Lunch                      |                                      | Annex Lobby |
+
+# Day 1: Apr 15, 2025 (Tue) Afternoon Session: Autonomous Discovery in Materials Science & Chemistry
+| Time                | Presenter, Organization   | Title                                | Location    |
+|---                  | ---                       | ---                                  | ---         | 
+| 1.15 PM - 1.45 PM   | Benji Maruyama, AFRL      |                                      | Room 1501   | 
+| 1.45 PM - 2.15 PM   | Jason Hattrick-Simpers, UToronto |                               | Room 1501   |
+| 2.15 PM - 2.45 PM   | Ed Colgate, Northwestern University |                            | Room 1501   | 
+| 2.45 PM - 3.15 PM   | Sumner Harris, ORNL      |                                       | Room 1501   |
+| 3.15 PM - 3.45 PM   | Coffee Break             |                                       | Annex Lobby |
+| 3.45 PM - 4.15 PM   | Neeraj Kumar. PNNL       |                                       | Roomm 1501  | 
+| 4.15 PM - 5.00 PM   | Panel Discussion         |                                       |             |
+
 
 
 ## Organizers

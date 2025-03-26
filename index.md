@@ -52,6 +52,15 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 | 3.45 PM - 4.15 PM   | Neeraj Kumar. PNNL       |                                       | Roomm 1501  | 
 | 4.15 PM - 5.00 PM   | Panel Discussion         |                                       |             |
 
+### Day 2: Apr 16, 2025 (Tue) Morning Session: Tutorials on Building Autonomous Laboratories for Science
+| Time                | Presenter, Organization   | Title                                | Location    |
+| ---                 | ---                       | ---                                  | ---         |
+| 9.00 AM - 9.45 AM   |  Noah Paulson, ANL        |  Intro to Automated and Autonomous Science        | Room 1501   |
+| 9.45 AM - 10.30 AM   | Abraham Stroka, Casey Stone, ANL        |  Modular Autonomous Discovery Science (MAD-Sci)  |  Room 1501  | 
+| 10.30 AM  - 11.00 AM|  Coffee Break             |                                      | Annex Lobby |
+| 11.00 AM - 12.30 PM | Rory Butler, ANL  |   LLMs for experiment planning (Rory)         | Room 1501   |
+| 12.30 PM - 1.15 PM | Lunch                      |                                      | Annex Lobby |
+
 
 
 ## Organizers

@@ -52,14 +52,45 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 | 3.45 PM - 4.15 PM   | Neeraj Kumar. PNNL       |                                       | Roomm 1501  | 
 | 4.15 PM - 5.00 PM   | Panel Discussion         |                                       |             |
 
-### Day 2: Apr 16, 2025 (Tue) Morning Session: Tutorials on Building Autonomous Laboratories for Science
+### Day 2: Apr 16, 2025 (Wed) Morning Session: Tutorials on Building Autonomous Laboratories for Science
 | Time                | Presenter, Organization   | Title                                | Location    |
 | ---                 | ---                       | ---                                  | ---         |
-| 9.00 AM - 9.45 AM   |  Noah Paulson, ANL        |  Intro to Automated and Autonomous Science        | Room 1501   |
-| 9.45 AM - 10.30 AM   | Abraham Stroka, Casey Stone, ANL        |  Modular Autonomous Discovery Science (MAD-Sci)  |  Room 1501  | 
+| 9.00 AM - 9.15 AM   |  Noah Paulson, ANL        |  Intro to Automated and Autonomous Science        | Room 1501   |
+| 9.15 AM - 10.30 AM   | Abraham Stroka, Casey Stone, ANL        |  Modular Autonomous Discovery Science (MAD-Sci)  |  Room 1501  | 
+|                      | Ryan Lewis, Tobias Ginsburg, ANL        | Introduction (10 min); 
+|                      |                                         | Instrument automation     | Room 1501   |
+|                      |                          | Workcell development                     | Room 1501   |
+|                      |                          | Experiment development                   | Room 1501   |
+|                      |                          | Conclusions (10 min)                     | Roomm 1501  |
 | 10.30 AM  - 11.00 AM|  Coffee Break             |                                      | Annex Lobby |
-| 11.00 AM - 12.30 PM | Rory Butler, ANL  |   LLMs for experiment planning (Rory)         | Room 1501   |
-| 12.30 PM - 1.15 PM | Lunch                      |                                      | Annex Lobby |
+| 11.00 AM - 11.30 AM | Rory Butler, ANL  |   LLMs for experiment planning               | Room 1501   |
+| 11.30 AM - 12.00 PM | Noah Paulson, Doga Ozgulbas  | Closing the loop                  | Room 1501   |
+| 12.00 PM - 1.00 PM | Lunch                      |                                      | Annex Lobby |
+
+### Day 2: Apr 16, 2025 (Wed) Afternoon Session: Autonomous Discovery in Biology
+| Time                | Presenter, Organization   | Title                                | Location    |
+|---                  | ---                       | ---                                  | ---         | 
+| 1.00 PM - 1.30 PM   | Adrienne Hoarfrost, UGA   |                                      | Room 1501   | 
+| 1.30 PM - 2.00 PM   | Barbara DelCastello, RAND |                                      | Room 1501   |
+| 2.00 PM - 2.30 PM   | Chris Henry, ANL          |                                      | Room 1501   | 
+| 2.30 PM - 3.00 PM   | Ben Rubin, Berkeley      |                                       | Room 1501   |
+| 3.00 PM - 3.30 PM   | Coffee Break             |                                       | Annex Lobby |
+| 3.30 PM - 4.00 PM   | Natarajan Kannan, UGA    |                                       | Room 1501   | 
+| 4.00 PM - 4.30 PM   | Invited talk from CMU    |                                       | Room 1501   |
+| 4.30 PM - 5.00 PM   | Hector Garcia, LBL       |                                       | Room 1501   |
+
+### Day 3: Apr 17, 2025 (Thu) Morning Session: Digital Twins and Infrastructure for Autonomous Laboratories
+| Time                | Presenter, Organization   | Title                                | Location    |
+| ---                 | ---                       | ---                                  | ---         |
+| 9.00 AM - 9.30 AM   |  Invited Talk from CMU    |                                 | Room 1501   |
+| 9.30 AM - 10.00 AM  |  Ben Blaiszik, ANL        |  The future of scientific discovery  |  Room 1501  |
+| 10.00 AM - 10.30 AM |  Rafael Ferreira Da Silva, ORNL          |                                      |  Room 1501  | 
+| 10.30 AM  - 11.00 AM|  Coffee Break             |                                      | Annex Lobby |
+| 11.00 AM - 11.30 AM| Sam Rodriques, Future House |                                     | Room 1501   |
+| 11.30 AM - 12.30 PM | Boxed lunches              |                                      | Annex Lobby |
+
+### Day 3: Apr 17, 2025 (Thue) Afternoon Session: Organized tours of the Argonne Autonomous Research Laboratoy Facilities (AARL)
+Sign up sheets will be available shortly. 
 
 
 

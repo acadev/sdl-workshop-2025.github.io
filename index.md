@@ -29,7 +29,7 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 
 ## Tentative Program
 
-# Day 1: Apr 15, 2025 (Tue) Morning Session: Towards Scientific Superintelligence 
+### Day 1: Apr 15, 2025 (Tue) Morning Session: Towards Scientific Superintelligence 
 | Time                | Presenter, Organization   | Title                                | Location    |
 | ---                 | ---                       | ---                                  | ---         |
 | 9.00 AM - 9.10 AM   |  Thomas Brettin, ANL      |  Safety, Program Logistics           | Room 1501   |
@@ -41,7 +41,7 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 | 12.00 PM - 12.30 PM| Lav Varshney, UIUC         |                                      | Room 1501   |
 | 12.30 PM - 1.15 PM | Lunch                      |                                      | Annex Lobby |
 
-# Day 1: Apr 15, 2025 (Tue) Afternoon Session: Autonomous Discovery in Materials Science & Chemistry
+### Day 1: Apr 15, 2025 (Tue) Afternoon Session: Autonomous Discovery in Materials Science & Chemistry
 | Time                | Presenter, Organization   | Title                                | Location    |
 |---                  | ---                       | ---                                  | ---         | 
 | 1.15 PM - 1.45 PM   | Benji Maruyama, AFRL      |                                      | Room 1501   | 

@@ -27,6 +27,19 @@ This meeting is designed to engage a diverse and broad audience, including:
 
 This inclusive and interdisciplinary audience will foster diverse perspectives, encouraging collaborative dialogue and innovative thinking around AI-powered scientific discovery.
 
+## Tentative Program
+
+# Day 1: Apr 15, 2025 (Tue) Session 1: Towards Scientific Superintelligence 
+| Time                | Presenter, Organization   | Title                                | Location    |
+| ---                 | ---                       | ---                                  | ---         |
+| 9.00 AM - 9.10 AM   |  Thomas Brettin, ANL      |  Safety, Program Logistics           | Room 1501   |
+| 9.10 AM - 9.50 AM   |  Rick Stevens, ANL        |  The future of scientific discovery  |  Room 1501  |
+| 9.50 AM - 10.30 AM  |  Ben Kompa, Lila          |                                      |  Room 1501  | 
+| 10.30 AM  - 11.00 AM|  Coffee Break             |                                      | Annex Lobby |
+| 11.00 AM - 11.30 AM| Sumit Jha, FIU             | The MEDAL Program                    | Room 1501   |
+|---                 | ---                        |  ----                                | ---         |
+
+
 ## Organizers
 - **Ian Foster**: Dr. Ian Foster is the Director of Argonne’s Data Science and Learning Division, Argonne Senior Scientist and Distinguished Fellow and the Arthur Holly Compton Distinguished Service Professor of Computer Science at the University of Chicago.  He was the Director of Argonne’s Computation Institute from 2006 to 2016. Foster’s research contributions span high-performance computing, distributed systems, and data-driven discovery.  He has published hundreds of scientific papers and eight books on these and other topics.  Methods and software developed under his leadership underpin many large national and international cyberinfrastructures. Foster received a BSc (Hons I) degree from the University of Canterbury, New Zealand, and a PhD from Imperial College, United Kingdom, both in computer science.  His awards include the Global Information Infrastructure (GII) Next Generation award, the British Computer Society’s Lovelace Medal, R&D Magazine’s Innovator of the Year, the IEEE Tsutomu Kanai award, and honorary doctorates from the University of Canterbury, New Zealand and CINVESTAV, Mexico. He is an elected Fellow of the American Association for the Advancement of Science, the Association for Computing Machinery, and British Computer Society.
   

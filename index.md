@@ -34,18 +34,18 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 | ---                 | ---                       | ---                                  | ---         |
 | 9.00 AM - 9.10 AM   |  Thomas Brettin, ANL      |  Safety, Program Logistics           | Room 1501   |
 | 9.10 AM - 9.50 AM   |  Rick Stevens, ANL        |  The future of scientific discovery  |  Room 1501  |
-| 9.50 AM - 10.30 AM  |  Ben Kompa, Lila          |                                      |  Room 1501  | 
+| 9.50 AM - 10.30 AM  |  Ben Kompa, Lila          |  Lila Sciences: Towards Scientific Superintelligence                                    |  Room 1501  | 
 | 10.30 AM  - 11.00 AM|  Coffee Break             |                                      | Annex Lobby |
 | 11.00 AM - 11.30 AM| Sumit Jha, FIU             | The MEDAL Program                    | Room 1501   |
 | 11.30 AM - 12.00 PM| Andrew Heywood, Emerald Cloud Labs |                              | Room 1501   |
-| 12.00 PM - 12.30 PM| Lav Varshney, UIUC         |                                      | Room 1501   |
+| 12.00 PM - 12.30 PM| Lav Varshney, UIUC         |Toward a Calculus of Compound AI Systems Constructed from Foundation Models                                      | Room 1501   |
 | 12.30 PM - 1.15 PM | Lunch                      |                                      | Annex Lobby |
 
 ### Day 1: Apr 15, 2025 (Tue) Afternoon Session: Autonomous Discovery in Materials Science & Chemistry
 | Time                | Presenter, Organization   | Title                                | Location    |
 |---                  | ---                       | ---                                  | ---         | 
 | 1.15 PM - 1.45 PM   | Benji Maruyama, AFRL      |                                      | Room 1501   | 
-| 1.45 PM - 2.15 PM   | Jason Hattrick-Simpers, UToronto |                               | Room 1501   |
+| 1.45 PM - 2.15 PM   | Jason Hattrick-Simpers, UToronto | Development of Experimental Tools and Data Analysis Pipelines for Autonomous Electrochemistry                              | Room 1501   |
 | 2.15 PM - 2.45 PM   | Ed Colgate, Northwestern University |                            | Room 1501   | 
 | 2.45 PM - 3.15 PM   | Sumner Harris, ORNL      |                                       | Room 1501   |
 | 3.15 PM - 3.45 PM   | Coffee Break             |                                       | Annex Lobby |
@@ -71,9 +71,9 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 | Time                | Presenter, Organization   | Title                                | Location    |
 |---                  | ---                       | ---                                  | ---         | 
 | 1.00 PM - 1.30 PM   | Adrienne Hoarfrost, UGA   |                                      | Room 1501   | 
-| 1.30 PM - 2.00 PM   | Barbara DelCastello, RAND |                                      | Room 1501   |
+| 1.30 PM - 2.00 PM   | Barbara DelCastello, RAND |  Documenting Cloud Labs and Examining How Remotely Operated Automated Laboratories Could Enable Bad Actors                                    | Room 1501   |
 | 2.00 PM - 2.30 PM   | Chris Henry, ANL          |                                      | Room 1501   | 
-| 2.30 PM - 3.00 PM   | Ben Rubin, Berkeley      |                                       | Room 1501   |
+| 2.30 PM - 3.00 PM   | Ben Rubin, Berkeley      |  AI-generated Biological Replication  | Room 1501   |
 | 3.00 PM - 3.30 PM   | Coffee Break             |                                       | Annex Lobby |
 | 3.30 PM - 4.00 PM   | Natarajan Kannan, UGA    |                                       | Room 1501   | 
 | 4.00 PM - 4.30 PM   | Invited talk from CMU    |                                       | Room 1501   |
@@ -84,7 +84,7 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 | ---                 | ---                       | ---                                  | ---         |
 | 9.00 AM - 9.30 AM   |  Invited Talk from CMU    |                                 | Room 1501   |
 | 9.30 AM - 10.00 AM  |  Ben Blaiszik, ANL        |  The future of scientific discovery  |  Room 1501  |
-| 10.00 AM - 10.30 AM |  Rafael Ferreira Da Silva, ORNL          |                                      |  Room 1501  | 
+| 10.00 AM - 10.30 AM |  Rafael Ferreira Da Silva, ORNL| Building Next-Generation Scientific Workflows for Autonomous Research Facilities                                     |  Room 1501  | 
 | 10.30 AM  - 11.00 AM|  Coffee Break             |                                      | Annex Lobby |
 | 11.00 AM - 11.30 AM| Sam Rodriques, Future House |                                     | Room 1501   |
 | 11.30 AM - 12.30 PM | Boxed lunches              |                                      | Annex Lobby |

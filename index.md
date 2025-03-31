@@ -44,7 +44,7 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 ### Day 1: Apr 15, 2025 (Tue) Afternoon Session: Autonomous Discovery in Materials Science & Chemistry
 | Time                | Presenter, Organization   | Title                                | Location    |
 |---                  | ---                       | ---                                  | ---         | 
-| 1.15 PM - 1.45 PM   | Benji Maruyama, AFRL      |                                      | Room 1501   | 
+| 1.15 PM - 1.45 PM   | Anne Skaja Robinson, CMU  |                                      | Room 1501   | 
 | 1.45 PM - 2.15 PM   | Jason Hattrick-Simpers, UToronto | Development of Experimental Tools and Data Analysis Pipelines for Autonomous Electrochemistry                              | Room 1501   |
 | 2.15 PM - 2.45 PM   | Ed Colgate, Northwestern University |                            | Room 1501   | 
 | 2.45 PM - 3.15 PM   | Sumner Harris, ORNL      |                                       | Room 1501   |
@@ -76,14 +76,14 @@ This inclusive and interdisciplinary audience will foster diverse perspectives, 
 | 2.30 PM - 3.00 PM   | Ben Rubin, Berkeley      |  AI-generated Biological Replication  | Room 1501   |
 | 3.00 PM - 3.30 PM   | Coffee Break             |                                       | Annex Lobby |
 | 3.30 PM - 4.00 PM   | Natarajan Kannan, UGA    |                                       | Room 1501   | 
-| 4.00 PM - 4.30 PM   | Invited talk from CMU    |                                       | Room 1501   |
+| 4.00 PM - 4.30 PM   | Jose Lugo-Martinez, CMU    |                                       | Room 1501   |
 | 4.30 PM - 5.00 PM   | Hector Garcia, LBL       |                                       | Room 1501   |
 
 ### Day 3: Apr 17, 2025 (Thu) Morning Session: Digital Twins and Infrastructure for Autonomous Laboratories
 | Time                | Presenter, Organization   | Title                                | Location    |
 | ---                 | ---                       | ---                                  | ---         |
 | 9.00 AM - 9.30 AM   |  Invited Talk from CMU    |                                 | Room 1501   |
-| 9.30 AM - 10.00 AM  |  Ben Blaiszik, ANL        |  The future of scientific discovery  |  Room 1501  |
+| 9.30 AM - 10.00 AM  |  Joshua Kangas, CMU        |  Educational insights from   |  Room 1501  |
 | 10.00 AM - 10.30 AM |  Rafael Ferreira Da Silva, ORNL| Building Next-Generation Scientific Workflows for Autonomous Research Facilities                                     |  Room 1501  | 
 | 10.30 AM  - 11.00 AM|  Coffee Break             |                                      | Annex Lobby |
 | 11.00 AM - 11.30 AM| Sam Rodriques, Future House |                                     | Room 1501   |

@@ -9,6 +9,8 @@ This meeting will explore the transformative impact of artificial intelligence o
 - Integration of AI-driven robotics to automate complex tasks in laboratories.
 Participants will gain insight into the latest AI methods that are shaping the future of scientific inquiry and enabling breakthroughs at an unprecedented pace.
 
+The event will combine scene-setting lectures, technical deep dives, and demos, and will provide opportunities for hands-on work with relevant technologies.
+
 ## Logistics 
 - **Where**: Argonne National Laboratory, Bldg. 240 (Room 1501)
 - **When**: Apr 15-17 2025
